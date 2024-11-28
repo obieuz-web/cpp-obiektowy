@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1704437449 source:c:\users\robiz\documents\ppsio\prostokaty\prostokat\src\cprostokat.cpp
+	"../include/CProstokat.h"
+	<graphics.h>
+	<iostream>
+	<cmath>
+
+1704438131 c:\users\robiz\documents\ppsio\prostokaty\prostokat\include\cprostokat.h
+
+1266090614 c:\users\robiz\desktop\codeblock32bit\codeblocks-ep\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1702244434 source:c:\users\robiz\documents\ppsio\prostokaty\prostokat\src\cprostokatpudelko.cpp
+	"../include/CProstokatPudelko.h"
+	<iostream>
+
+1702244235 c:\users\robiz\documents\ppsio\prostokaty\prostokat\include\cprostokatpudelko.h
+	<vector>
+	<memory>
+	"CProstokat.h"
+
+1702244250 source:c:\users\robiz\documents\ppsio\prostokaty\prostokat\main.cpp
+	"include/CProstokat.h"
+	"include/CProstokatPudelko.h"
+	<graphics.h>
+	<iostream>
+	<winuser.h>
+

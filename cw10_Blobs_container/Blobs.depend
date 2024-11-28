@@ -1,0 +1,177 @@
+# depslib dependency file v1.0
+1702582579 source:b:\develop\codeblocks\projects\cw10_blobs_container\src\cblobs_container.cpp
+	"../include/CBlobs_container.h"
+	<iostream>
+
+1702582577 b:\develop\codeblocks\projects\cw10_blobs_container\include\cblobs_container.h
+	<vector>
+	<memory>
+	"../include/CBlob.h"
+
+1702585471 b:\develop\codeblocks\projects\cw10_blobs_container\include\cblob.h
+
+1702587368 source:b:\develop\codeblocks\projects\cw10_blobs_container\main.cpp
+	<graphics.h>
+	<iostream>
+	<conio.h>
+	<time.h>
+	"include/CBlob.h"
+	"include/CBlobs_container.h"
+
+1266090614 b:\develop\codeblocks\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1702588233 source:b:\develop\codeblocks\projects\cw10_blobs_container\src\cblob.cpp
+	<graphics.h>
+	"../include/CBlob.h"
+
+1702588233 source:e:\projects\cw10_blobs_container\src\cblob.cpp
+	<graphics.h>
+	"../include/CBlob.h"
+
+1266090614 e:\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1702585471 e:\projects\cw10_blobs_container\include\cblob.h
+
+1702582579 source:e:\projects\cw10_blobs_container\src\cblobs_container.cpp
+	"../include/CBlobs_container.h"
+	<iostream>
+
+1702582577 e:\projects\cw10_blobs_container\include\cblobs_container.h
+	<vector>
+	<memory>
+	"../include/CBlob.h"
+
+1702588317 source:e:\projects\cw10_blobs_container\main.cpp
+	<graphics.h>
+	<iostream>
+	<conio.h>
+	<time.h>
+	"include/CBlob.h"
+	"include/CBlobs_container.h"
+
+1702588234 source:e:\cw10_blobs_container\src\cblob.cpp
+	<graphics.h>
+	"../include/CBlob.h"
+
+1266094214 e:\codeblocks-ep\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1702585472 e:\cw10_blobs_container\include\cblob.h
+
+1702582580 source:e:\cw10_blobs_container\src\cblobs_container.cpp
+	"../include/CBlobs_container.h"
+	<iostream>
+
+1702582578 e:\cw10_blobs_container\include\cblobs_container.h
+	<vector>
+	<memory>
+	"../include/CBlob.h"
+
+1702588318 source:e:\cw10_blobs_container\main.cpp
+	<graphics.h>
+	<iostream>
+	<conio.h>
+	<time.h>
+	"include/CBlob.h"
+	"include/CBlobs_container.h"
+
+1702588234 source:c:\users\victo\onedrive\pulpit\cw10_blobs_container\src\cblob.cpp
+	<graphics.h>
+	"../include/CBlob.h"
+
+1266090614 c:\users\victo\onedrive\pulpit\c++\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1702585472 c:\users\victo\onedrive\pulpit\cw10_blobs_container\include\cblob.h
+
+1702582580 source:c:\users\victo\onedrive\pulpit\cw10_blobs_container\src\cblobs_container.cpp
+	"../include/CBlobs_container.h"
+	<iostream>
+
+1702582578 c:\users\victo\onedrive\pulpit\cw10_blobs_container\include\cblobs_container.h
+	<vector>
+	<memory>
+	"../include/CBlob.h"
+
+1705046167 source:c:\users\victo\onedrive\pulpit\cw10_blobs_container\main.cpp
+	<graphics.h>
+	<iostream>
+	<conio.h>
+	<time.h>
+	"include/CBlob.h"
+	"include/CBlobs_container.h"
+	"include/CKwadrat.h"
+	"include/CKwadrat_container.h"
+
+1705045895 source:c:\users\victo\onedrive\pulpit\cw10_blobs_container\src\ckwadrat.cpp
+	"../include/CKwadrat.h"
+	<graphics.h>
+	<iostream>
+
+1705045905 c:\users\victo\onedrive\pulpit\cw10_blobs_container\include\ckwadrat.h
+
+1705045911 source:c:\users\victo\onedrive\pulpit\cw10_blobs_container\src\ckwadrat_container.cpp
+	"../include/CKwadrat_container.h"
+	<iostream>
+
+1705045976 c:\users\victo\onedrive\pulpit\cw10_blobs_container\include\ckwadrat_container.h
+	<vector>
+	<memory>
+	"CKwadrat.h"
+
+1702588234 source:c:\users\robiz\documents\ppsio\cw10_blobs_container\src\cblob.cpp
+	<graphics.h>
+	"../include/CBlob.h"
+
+1266090614 c:\users\robiz\desktop\codeblock32bit\codeblocks-ep\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1702585472 c:\users\robiz\documents\ppsio\cw10_blobs_container\include\cblob.h
+
+1702582580 source:c:\users\robiz\documents\ppsio\cw10_blobs_container\src\cblobs_container.cpp
+	"../include/CBlobs_container.h"
+	<iostream>
+
+1702582578 c:\users\robiz\documents\ppsio\cw10_blobs_container\include\cblobs_container.h
+	<vector>
+	<memory>
+	"../include/CBlob.h"
+
+1705045896 source:c:\users\robiz\documents\ppsio\cw10_blobs_container\src\ckwadrat.cpp
+	"../include/CKwadrat.h"
+	<graphics.h>
+	<iostream>
+
+1705045906 c:\users\robiz\documents\ppsio\cw10_blobs_container\include\ckwadrat.h
+
+1705045912 source:c:\users\robiz\documents\ppsio\cw10_blobs_container\src\ckwadrat_container.cpp
+	"../include/CKwadrat_container.h"
+	<iostream>
+
+1705045978 c:\users\robiz\documents\ppsio\cw10_blobs_container\include\ckwadrat_container.h
+	<vector>
+	<memory>
+	"CKwadrat.h"
+
+1705046168 source:c:\users\robiz\documents\ppsio\cw10_blobs_container\main.cpp
+	<graphics.h>
+	<iostream>
+	<conio.h>
+	<time.h>
+	"include/CBlob.h"
+	"include/CBlobs_container.h"
+	"include/CKwadrat.h"
+	"include/CKwadrat_container.h"
+

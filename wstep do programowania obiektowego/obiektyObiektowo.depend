@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1698395059 source:c:\users\robiz\documents\ppsio\obiektyobiektowo\src\cpileczka.cpp
+	"graphics.h"
+	"../include/Cpileczka.h"
+
+1266094214 c:\users\robiz\desktop\codeblock32bit\codeblocks-ep\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1698394566 c:\users\robiz\documents\ppsio\obiektyobiektowo\include\cpileczka.h
+
+1698396083 source:c:\users\robiz\documents\ppsio\obiektyobiektowo\obiekty_main.cpp
+	"graphics.h"
+	<iostream>
+	"include/CPileczka.h"
+	"include/CBlizniaki.h"
+
+1698396209 c:\users\robiz\documents\ppsio\obiektyobiektowo\include\cblizniaki.h
+
+1698396253 source:c:\users\robiz\documents\ppsio\obiektyobiektowo\src\cblizniaki.cpp
+	"graphics.h"
+	"../include/CBlizniaki.h"
+

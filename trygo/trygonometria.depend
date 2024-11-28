@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1700814571 source:c:\users\robiz\documents\ppsio\trygonometria\src\cstar.cpp
+	"../include/CStar.h"
+	<graphics.h>
+	<math.h>
+	<iostream>
+
+1700811658 c:\users\robiz\documents\ppsio\trygonometria\include\cstar.h
+
+1266090614 c:\users\robiz\desktop\codeblock32bit\codeblocks-ep\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1700810039 source:c:\users\robiz\documents\ppsio\trygonometria\main.cpp
+	<graphics.h>
+	<iostream>
+	"include/CStar.h"
+
+1700810039 source:c:\users\robiz\documents\ppsio\konstruktory\main.cpp
+	<graphics.h>
+	<iostream>
+	"include/CStar.h"
+
+1701414002 c:\users\robiz\documents\ppsio\konstruktory\include\cstar.h
+
